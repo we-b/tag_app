@@ -1,9 +1,12 @@
 table {
   border-collapse:collapse;
-  width: 50%
 };
 
 th, td {
   padding: 5px;
-  border: 1px solid;
+  border: 1px solid #dedede;
+}
+
+th{
+  background-color: #F4F4F4;
 }
